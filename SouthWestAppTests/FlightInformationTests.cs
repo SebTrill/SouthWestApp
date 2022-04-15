@@ -1,8 +1,8 @@
 using System;
 using Xunit;
-//using SouthWestApp.FlightData;
+using SouthWestApp.FlightData;
 
-namespace SouthWestAppTests
+namespace SouthWestApp.SouthWestAppTests
 {
     public class FlightInformationTests
     {
@@ -16,7 +16,18 @@ namespace SouthWestAppTests
         [InlineData(7000)]
         public void FlightNumberCorrectlySet(int number)
         {
-            //var flight = new 
+            /*
+            if(number > 0 && number < 7000) 
+            {
+                var flight = new FlightInformation(number);
+                Assert.Equal(number, flight.FlightNumber);
+            }
+            else
+            {
+                var ex = Assert.Throws<Exception>(() => new FlightInformation(number));
+                Assert.That(ex.message, Is.EqualTo("Not a valid flight number."));
+            }
+            */
         }
     }
 }

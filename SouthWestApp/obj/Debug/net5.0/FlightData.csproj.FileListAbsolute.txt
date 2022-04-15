@@ -1,0 +1,5 @@
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestApp\obj\Debug\net5.0\FlightData.csproj.AssemblyReference.cache
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestApp\obj\Debug\net5.0\FlightData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestApp\obj\Debug\net5.0\FlightData.AssemblyInfoInputs.cache
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestApp\obj\Debug\net5.0\FlightData.AssemblyInfo.cs
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestApp\obj\Debug\net5.0\FlightData.csproj.CoreCompileInputs.cache

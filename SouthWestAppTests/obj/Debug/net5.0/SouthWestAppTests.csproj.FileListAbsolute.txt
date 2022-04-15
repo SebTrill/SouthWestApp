@@ -1,0 +1,6 @@
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\obj\Debug\net5.0\SouthWestAppTests.csproj.AssemblyReference.cache
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\obj\Debug\net5.0\SouthWestAppTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\obj\Debug\net5.0\SouthWestAppTests.AssemblyInfoInputs.cache
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\obj\Debug\net5.0\SouthWestAppTests.AssemblyInfo.cs
+C:\Users\sgtri\OneDrive\Documents\Coding Stuff\Personal Projects\SouthWestApp\SouthWestAppTests\obj\Debug\net5.0\SouthWestAppTests.csproj.CoreCompileInputs.cache

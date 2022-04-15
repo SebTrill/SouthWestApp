@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace SouthWestApp
+namespace SouthWestApp.FlightData
 {
     class FlightInformation
     {
@@ -12,7 +16,15 @@ namespace SouthWestApp
         /// <summary>
         /// This is the flight number.
         /// </summary>
-        public int FlightNumber { get { return _flightNumber; } set { _flightNumber = value; } }
+        public int FlightNumber
+        {
+            get => _flightNumber;
+            set
+            {
+                if (value > 0 && value < 7000) _flightNumber = value;
+                else throw new Exception("Not a valid flight number.");
+            }
+        }
 
         /// <summary>
         /// This is the constructor for the flight information.
