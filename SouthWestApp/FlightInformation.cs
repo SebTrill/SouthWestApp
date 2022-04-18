@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SouthWestApp.FlightData
 {
-    class FlightInformation
+    public class FlightInformation
     {
         /// <summary>
         /// This is the private backing variable for the flight number.

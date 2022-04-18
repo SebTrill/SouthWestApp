@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FlightData
+namespace SouthWestApp.FlightData
 {
     public class CheckIn_Information
     {
@@ -59,22 +59,27 @@ namespace FlightData
         /// <summary>
         /// This is a private backing variable for the confirmation number.
         /// </summary>
-        private int _confirmationNumber;
+        private string _confirmationNumber;
 
         /// <summary>
         /// This is the confirmation number.
         /// </summary>
-        public int ConfirmationNumber
+        public string ConfirmationNumber
         {
             get => _confirmationNumber;
             set
             {
                 string temp = Convert.ToString(value);
-                foreach(char c in temp)
+                byte[] ascii = Encoding.ASCII.GetBytes(temp);
+                if (temp.Length != 6)
                 {
-                    if(!((int)c > 47 && (int)c < 58))
+                    throw new Exception("Has to be 6 characters in length.");
+                }
+                foreach(char c in ascii)
+                {
+                    if (!(((int)c > 47 && (int)c < 58) || ((int)c > 96 && (int)c < 123)))
                     {
-                        throw new Exception("Only numbers allowed in the confirmation number");
+                        throw new Exception("Only numbers and capital letters allowed in the confirmation number.");
                     }
                 }
                 _confirmationNumber = value;
