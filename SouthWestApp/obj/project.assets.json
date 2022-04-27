@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj",
+      "projectUniqueName": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj",
       "projectName": "FlightData",
-      "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj",
+      "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj",
       "packagesPath": "C:\\Users\\sgtri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\obj\\",
+      "outputPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

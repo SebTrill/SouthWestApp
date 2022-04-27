@@ -5939,11 +5939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\SouthWestAppTests.csproj",
+      "projectUniqueName": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\SouthWestAppTests.csproj",
       "projectName": "SouthWestAppTests",
-      "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\SouthWestAppTests.csproj",
+      "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\SouthWestAppTests.csproj",
       "packagesPath": "C:\\Users\\sgtri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\obj\\",
+      "outputPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5964,8 +5964,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj": {
-              "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Coding Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj"
+            "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj": {
+              "projectPath": "C:\\Users\\sgtri\\OneDrive\\Documents\\Seb's Stuff\\Personal Projects\\SouthWestApp\\SouthWestApp\\FlightData.csproj"
             }
           }
         }
