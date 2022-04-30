@@ -73,10 +73,55 @@ body {
 
 /* Custom styles
 --------------------------------------------------- */
-.body-type {
+#body-type {
     background-color: #333333;
+    margin: 0;
+    padding 0;
 }
 
-text-display-1 {
+div-type-1 {
     color: lightgrey;
+    margin: 10px;
+}
+
+header-display-1 {
+    margin: 40px;
+}
+
+.search {
+    color: lightgray;
+    margin-top: 10px;
+    padding-top: 20px;
+    position: fixed;
+    left: 0;
+    width: 250px;
+    height: 100%;
+}
+
+.search a {
+    color: lightgray;
+    display: block;
+    width: 100%;
+    line-height: 20px;
+    text-decoration: none;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+    /*border-right: 1px solid lightgrey;*/
+}
+
+.search a:hover {
+    background-color: dimgrey;
+}
+
+.div-type-1 {
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+form#form-type {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
 }

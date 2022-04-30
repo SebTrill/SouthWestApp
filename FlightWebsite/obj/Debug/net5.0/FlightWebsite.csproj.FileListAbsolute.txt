@@ -38,3 +38,4 @@ C:\Users\sgtri\OneDrive\Documents\Seb's Stuff\Personal Projects\SouthWestApp\Fli
 C:\Users\sgtri\OneDrive\Documents\Seb's Stuff\Personal Projects\SouthWestApp\FlightWebsite\obj\Debug\net5.0\FlightWebsite.pdb
 C:\Users\sgtri\OneDrive\Documents\Seb's Stuff\Personal Projects\SouthWestApp\FlightWebsite\obj\Debug\net5.0\FlightWebsite.genruntimeconfig.cache
 C:\Users\sgtri\OneDrive\Documents\Seb's Stuff\Personal Projects\SouthWestApp\FlightWebsite\obj\Debug\net5.0\FlightWebsite.csproj.CopyComplete
+C:\Users\sgtri\OneDrive\Documents\Seb's Stuff\Personal Projects\SouthWestApp\FlightWebsite\obj\Debug\net5.0\Razor\Pages\Home.cshtml.g.cs
