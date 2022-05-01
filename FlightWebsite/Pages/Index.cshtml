@@ -6,6 +6,26 @@
 <body id="body-type">
     <div class="text-center">
         <h1 class="display-4" style="color: lightgrey;">Flight Check-In</h1>
-        
+    </div>
+    <div class="flight-information">
+        <h1 class="header-style-1">Check-In Information:</h1>
+
+        <form class="name-info">
+            <label for="cnum">Flight Confirmation Number:</label><br>
+            <input type="text" id="cnum" name="cnum"><br>
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname">
+        </form>
+
+        <div class="search-div">
+            <input type="button" onclick="SearchFlight()" value="Search Flight">
+            <script>
+                function SearchFlight() {
+                    alert("No Flights Yet!");
+                }
+            </script>
+        </div>
     </div>
 </body>

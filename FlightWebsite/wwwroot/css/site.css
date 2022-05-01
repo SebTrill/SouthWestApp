@@ -125,3 +125,25 @@ form#form-type {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
 }
+
+.flight-information {
+    color: lightgrey;
+}
+
+.flight-information .name-info input {
+    width: 200px;
+}
+
+.flight-information .name-info label {
+    padding-top: 15px;
+}
+
+.header-style-1 {
+    font-size: 32px;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+
+.flight-information .search-div {
+    padding-top: 30px;
+}
