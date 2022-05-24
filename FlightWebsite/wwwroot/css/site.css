@@ -27,12 +27,13 @@ a {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+
+@media {
+    html {
+        font-size: 16px;
+    }
 }
 
 .border-top {
@@ -73,18 +74,18 @@ body {
 
 /* Custom styles
 --------------------------------------------------- */
-#body-type {
+#body-type-1 {
     background-color: #333333;
     margin: 0;
-    padding 0;
+    padding: 0;
 }
 
-div-type-1 {
+.div-type-1 {
     color: lightgrey;
     margin: 10px;
 }
 
-header-display-1 {
+.header-display-1 {
     margin: 40px;
 }
 
@@ -146,4 +147,34 @@ form#form-type {
 
 .flight-information .search-div {
     padding-top: 30px;
+}
+
+.check-in-button {
+    padding: 1px;
+    border-color: black;
+    background-color: darkgray;
+    font-size: 20px;
+    border-width: 1px;
+    width: 200px;
+}
+
+.start-button-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+#body-type-2 {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+.image1 {
+    background-image: url("https://i0.wp.com/boingboing.net/wp-content/uploads/2022/01/shutterstock_1897144138-scaled.jpg?fit=2560%2C1559&ssl=1");
 }
